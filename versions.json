@@ -1,0 +1,91 @@
+{
+  "sahaSatis": {
+    "name": "HızlıSoft Saha Satış",
+    "android": {
+      "versionCode": 59,
+      "versionName": "1.2.15",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.hizlisoftsahasatismobil&hl=tr"
+    },
+    "ios": {
+      "build": 30,
+      "marketingVersion": "1.1.24",
+      "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1soft-saha-sat%C4%B1%C5%9F/id6756876903?l=tr"
+    }
+  },
+
+  "kioskSatis": {
+    "name": "HızlıSoft Kiosk Satış",
+    "android": {
+      "versionCode": 1,
+      "versionName": "1.0",
+      "storeUrl": ""
+    },
+    "ios": null
+  },
+
+  "fiyatGor": {
+    "name": "HızlıSoft Fiyat Gör",
+    "android": {
+      "versionCode": 8,
+      "versionName": "1.1.4",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.hizlisoftfiyatgor&hl=tr"
+    },
+    "ios": {
+      "build": 4,
+      "marketingVersion": "1.0.2",
+      "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1soft-fiyat-g%C3%B6r/id6756885599?l=tr"
+    }
+  },
+
+  "hizliBoss": {
+    "name": "HızlıBoss",
+    "android": {
+      "versionCode": 37,
+      "versionName": "1.2.19",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.anonymous.HizliSoftKasaCepte&hl=tr"
+    },
+    "ios": {
+      "build": 22,
+      "marketingVersion": "1.2.19",
+      "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1boss/id6756811704?l=tr"
+    }
+  },
+
+  "mutfak": {
+    "name": "HızlıSoft Mutfak",
+    "android": {
+      "versionCode": 7,
+      "versionName": "1.0.6",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.hizlimutfakapp&hl=tr"
+    },
+    "ios": {
+      "build": 4,
+      "marketingVersion": "1.0.3",
+      "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1soft-mutfak/id6760014887?l=tr"
+    }
+  },
+
+  "garson": {
+    "name": "HızlıSoft Garson",
+    "android": {
+      "versionCode": 7,
+      "versionName": "1.0.6",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.garsonyeni&hl=tr"
+    },
+    "ios": {
+      "build": 5,
+      "marketingVersion": "1.0.3",
+      "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1soft-garson/id6756873242?l=tr"
+    }
+  },
+
+  "siramAtik": {
+    "name": "HızlıSoft Sıramatik",
+    "android": {
+      "versionCode": 5,
+      "versionName": "1.0.4",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.hizlisoftsiramatik&hl=tr"
+    },
+    "ios": null
+  }
+}
