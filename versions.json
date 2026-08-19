@@ -51,7 +51,7 @@
   "hizliBoss": {
     "name": "HızlıBoss",
     "android": {
-      "versionCode": 37,
+      "versionCode": 38,
       "versionName": "1.2.20",
       "minimumVersionCode": 37,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.anonymous.HizliSoftKasaCepte&hl=tr"
