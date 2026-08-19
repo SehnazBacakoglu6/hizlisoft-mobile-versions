@@ -4,13 +4,17 @@
     "android": {
       "versionCode": 59,
       "versionName": "1.2.15",
+      "minimumVersionCode": 59,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.hizlisoftsahasatismobil&hl=tr"
     },
     "ios": {
       "build": 30,
       "marketingVersion": "1.1.24",
+      "minimumBuild": 30,
       "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1soft-saha-sat%C4%B1%C5%9F/id6756876903?l=tr"
-    }
+    },
+    "updateMessage": "Yeni özelliklerden ve iyileştirmelerden yararlanmak için uygulamanızı güncelleyin.",
+    "forceUpdateMessage": "Uygulamanızın mevcut sürümü artık desteklenmiyor. Uygulamayı kullanmaya devam etmek için lütfen güncel sürümü yükleyin."
   },
 
   "kioskSatis": {
@@ -18,9 +22,12 @@
     "android": {
       "versionCode": 1,
       "versionName": "1.0",
+      "minimumVersionCode": 1,
       "storeUrl": ""
     },
-    "ios": null
+    "ios": null,
+    "updateMessage": "Yeni özelliklerden ve iyileştirmelerden yararlanmak için uygulamanızı güncelleyin.",
+    "forceUpdateMessage": "Uygulamanızın mevcut sürümü artık desteklenmiyor. Uygulamayı kullanmaya devam etmek için lütfen güncel sürümü yükleyin."
   },
 
   "fiyatGor": {
@@ -28,13 +35,17 @@
     "android": {
       "versionCode": 8,
       "versionName": "1.1.4",
+      "minimumVersionCode": 8,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.hizlisoftfiyatgor&hl=tr"
     },
     "ios": {
       "build": 4,
       "marketingVersion": "1.0.2",
+      "minimumBuild": 4,
       "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1soft-fiyat-g%C3%B6r/id6756885599?l=tr"
-    }
+    },
+    "updateMessage": "Yeni özelliklerden ve iyileştirmelerden yararlanmak için uygulamanızı güncelleyin.",
+    "forceUpdateMessage": "Uygulamanızın mevcut sürümü artık desteklenmiyor. Uygulamayı kullanmaya devam etmek için lütfen güncel sürümü yükleyin."
   },
 
   "hizliBoss": {
@@ -42,13 +53,17 @@
     "android": {
       "versionCode": 37,
       "versionName": "1.2.19",
+      "minimumVersionCode": 37,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.anonymous.HizliSoftKasaCepte&hl=tr"
     },
     "ios": {
       "build": 22,
       "marketingVersion": "1.2.19",
+      "minimumBuild": 22,
       "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1boss/id6756811704?l=tr"
-    }
+    },
+    "updateMessage": "Yeni özelliklerden ve iyileştirmelerden yararlanmak için uygulamanızı güncelleyin.",
+    "forceUpdateMessage": "Uygulamanızın mevcut sürümü artık desteklenmiyor. Uygulamayı kullanmaya devam etmek için lütfen güncel sürümü yükleyin."
   },
 
   "mutfak": {
@@ -56,13 +71,17 @@
     "android": {
       "versionCode": 7,
       "versionName": "1.0.6",
+      "minimumVersionCode": 7,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.hizlimutfakapp&hl=tr"
     },
     "ios": {
       "build": 4,
       "marketingVersion": "1.0.3",
+      "minimumBuild": 4,
       "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1soft-mutfak/id6760014887?l=tr"
-    }
+    },
+    "updateMessage": "Yeni özelliklerden ve iyileştirmelerden yararlanmak için uygulamanızı güncelleyin.",
+    "forceUpdateMessage": "Uygulamanızın mevcut sürümü artık desteklenmiyor. Uygulamayı kullanmaya devam etmek için lütfen güncel sürümü yükleyin."
   },
 
   "garson": {
@@ -70,13 +89,17 @@
     "android": {
       "versionCode": 7,
       "versionName": "1.0.6",
+      "minimumVersionCode": 7,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.garsonyeni&hl=tr"
     },
     "ios": {
       "build": 5,
       "marketingVersion": "1.0.3",
+      "minimumBuild": 5,
       "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1soft-garson/id6756873242?l=tr"
-    }
+    },
+    "updateMessage": "Yeni özelliklerden ve iyileştirmelerden yararlanmak için uygulamanızı güncelleyin.",
+    "forceUpdateMessage": "Uygulamanızın mevcut sürümü artık desteklenmiyor. Uygulamayı kullanmaya devam etmek için lütfen güncel sürümü yükleyin."
   },
 
   "siramAtik": {
@@ -84,8 +107,11 @@
     "android": {
       "versionCode": 5,
       "versionName": "1.0.4",
+      "minimumVersionCode": 5,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.hizlisoftsiramatik&hl=tr"
     },
-    "ios": null
+    "ios": null,
+    "updateMessage": "Yeni özelliklerden ve iyileştirmelerden yararlanmak için uygulamanızı güncelleyin.",
+    "forceUpdateMessage": "Uygulamanızın mevcut sürümü artık desteklenmiyor. Uygulamayı kullanmaya devam etmek için lütfen güncel sürümü yükleyin."
   }
 }
