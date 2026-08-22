@@ -33,7 +33,7 @@
   "fiyatGor": {
     "name": "HızlıSoft Fiyat Gör",
     "android": {
-      "versionCode": 9
+      "versionCode": 9,
       "versionName": "1.1.5",
       "minimumVersionCode": 9,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.hizlisoftfiyatgor&hl=tr"
