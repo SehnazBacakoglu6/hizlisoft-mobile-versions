@@ -87,15 +87,15 @@
   "garson": {
     "name": "HızlıSoft Garson",
     "android": {
-      "versionCode": 7,
-      "versionName": "1.0.6",
-      "minimumVersionCode": 7,
+      "versionCode": 11,
+      "versionName": "1.0.10",
+      "minimumVersionCode": 11,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.garsonyeni&hl=tr"
     },
     "ios": {
-      "build": 5,
-      "marketingVersion": "1.0.3",
-      "minimumBuild": 5,
+      "build": 7,
+      "marketingVersion": "1.0.4",
+      "minimumBuild": 7,
       "storeUrl": "https://apps.apple.com/tr/app/h%C4%B1zl%C4%B1soft-garson/id6756873242?l=tr"
     },
     "updateMessage": "Yeni özelliklerden ve iyileştirmelerden yararlanmak için uygulamanızı güncelleyin.",
